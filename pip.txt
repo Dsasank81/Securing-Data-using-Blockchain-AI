@@ -1,0 +1,10 @@
+asgiref                3.8.1
+Django                 3.0.7
+mysql-connector-python 8.0.33
+pip                    20.1.1
+protobuf               3.20.3
+PyMySQL                1.1.0
+pytz                   2024.2
+setuptools             47.1.0
+sqlparse               0.5.1
+typing-extensions      4.12.2
